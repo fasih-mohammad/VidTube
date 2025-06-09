@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific folders
+.vscode/
+.idea/
+
+# Temporary folders
+tmp/
+temp/
+
+# Build/output folders (if used in future)
+dist/
+build/
+
+# Coverage directory (for test coverage reports)
+coverage/
+
+# Uploaded assets (optional - if using local uploads)
+public/uploads/
+uploads/
+
+# Swagger or generated API docs (optional)
+swagger-output.json
+swagger.yaml
+
+# Ignore any backups or database dumps
+*.local
+*.bak
+dump/
